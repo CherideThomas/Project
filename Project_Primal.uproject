@@ -22,6 +22,10 @@
 		{
 			"Name": "ChaosClothAssetEditor",
 			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	]
 }
